@@ -1,57 +1,84 @@
-# Hi, I'm Sadhana Jamkatel or simply "Sana"
+# Hey there! I'm Sadhana (Sana) Jamkatel 
 
-I'm a Computer Science student at **North Central College**, graduating in **May 2027**, with experience building full-stack, backend, cloud, and AI-powered systems.
+**Computer Science Student | Software Engineering • AI • Product Management**
 
-I'm especially interested in **software engineering, backend systems, AI, cloud infrastructure, and building technology that makes complex workflows simpler and more reliable.**
+I'm a senior Computer Science student at **North Central College**, graduating in **May 2027**, and currently looking for **full-time opportunities starting in 2027**!
 
-### What I Build
+I love the process of turning an idea into something people can actually use. Whether that's building a backend system, experimenting with AI, designing a better user experience, or figuring out which features are worth building in the first place, I'm always curious about both the **engineering and product side of technology**.
 
-* Full-stack applications with **React, Next.js, TypeScript, and Node.js**
-* Backend services and REST APIs with **Python, Flask, and Node.js**
-* AI-powered applications using **LLM APIs and agentic workflows**
-* Cloud and developer infrastructure using **AWS, Docker, and CI/CD**
-* Data and ML applications using **Python, scikit-learn, and React/TypeScript**
+**I'm especially interested in Software Engineering, Backend Development, AI, and Product Management.**
 
-### Experience
+I'm always happy to connect, talk about technology, or hear about new opportunities!
 
-**Software Engineering Intern @ Aeropay**
-Built production systems for fintech operations, including an AI-powered operations assistant using React, Flask, REST APIs, and Claude. Worked on backend services, admin APIs, payment workflows, permission systems, audit logging, testing, and production debugging.
+**Reach me:** sadhanajamkatel0010@gmail.com  
+**LinkedIn:** [Let's connect!](https://www.linkedin.com/in/sadhanajamkatel/)  
+**Portfolio:** [Check it out](https://sanajamkatel.github.io/)
 
-**DevOps Intern @ Aeropay**
-Built automated documentation and CI/CD workflows using Docusaurus, GitHub Actions, AWS S3, and CloudFront.
+---
 
-### Featured Projects
+##  A Little About My Experience
 
-#### [Care Equity](https://care-equity.vercel.app/)
+### Software Engineering Intern | Aeropay
+Worked on production fintech systems, including an AI-powered internal operations assistant built with React, Flask, REST APIs, and Claude. Gained hands-on experience with backend services, payment workflows, access controls, audit logging, testing, and debugging real production issues.
 
-Full-stack healthcare analytics platform built with **Next.js, Express, MongoDB, and Recharts**, focused on visualizing maternal health disparities.
+### DevOps Intern | Aeropay
+Worked with AWS, GitHub Actions, Docusaurus, S3, and CloudFront to build automated documentation and CI/CD workflows.
 
-#### [Predictive Maintenance ML System](https://github.com/sanajamkatel/Predictive-Maintenance-System)
+These experiences taught me that good software isn't just about making something work. It's also about understanding the problem, designing for reliability, and thinking about the people using it.
 
-Machine learning system using **NASA Turbofan sensor data**, Random Forest, and a React/TypeScript dashboard to identify patterns associated with potential engine failure and visualize risk.
+---
 
-### Tech I Work With
+##  What I've Been Building Lately
+
+###  Ingressa — AI-Powered Job Application Tracker
+
+**My latest project, and one I'm especially excited to share!**
+
+If you've ever applied to dozens of jobs and lost track of which company replied, which application needs attention, or where you saved everything, that's the problem I wanted to solve.
+
+Ingressa brings job applications together in one place, with Excel imports, AI-assisted recruiting email processing, application status tracking, and duplicate detection.
+
+I built it using **Next.js, TypeScript, PostgreSQL, Prisma ORM, Clerk, Redis, and Claude API**, with automated tests and a CI workflow.
+
+And yes, it's live! The application is currently hosted as a **Preview deployment**, so feel free to check it out.
+
+[**Try Ingressa Live**](https://ingressa-cd6p230r0-sana-jamkatels-projects.vercel.app/)  
+[**Explore the Code**](https://github.com/sanajamkatel/ingressa)
+
+###  VisaRadar — Chrome Extension
+
+A browser extension designed to help job seekers quickly identify potential citizenship, security clearance, and visa sponsorship requirements in job postings.
+
+ [Explore VisaRadar](https://github.com/sanajamkatel/VisaRadar)
+
+---
+
+##  Technologies I've Worked With
 
 **Languages:** Python, TypeScript, JavaScript, C/C++, Java, SQL
 
 **Frontend:** React, Next.js, HTML/CSS, Recharts
 
-**Backend:** Node.js, Express, Flask, REST APIs
+**Backend:** Node.js, Express, Flask, REST APIs, Prisma ORM
 
-**Cloud & Infrastructure:** AWS, Docker, GitHub Actions, CI/CD
+**Databases:** PostgreSQL, MongoDB, MySQL, Redis
 
-**Databases:** PostgreSQL, MongoDB, MySQL
+**Cloud & DevOps:** AWS, Docker, GitHub Actions, CI/CD, Vercel
 
-**AI/ML:** Claude API, LangChain, scikit-learn, OpenCV
+**AI & Machine Learning:** Claude API, LangChain, scikit-learn, OpenCV
 
-### A Little More About Me
+---
 
-I enjoy being thrown into unfamiliar systems, asking questions, learning quickly, and figuring out how things work end to end.
+##  A Little More About Me
 
-I'm particularly interested in opportunities where I can combine **software engineering, AI, cloud, and systems thinking** to solve real-world problems.
+I like asking questions, learning how things work behind the scenes, and challenging myself to build things I haven't built before.
 
-### Let's Connect
+I'm also interested in **product management**, especially the process of understanding users, prioritizing features, and turning ideas into useful products.
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/sadhanajamkatel/)
-* 📧 [sadhanajamkatel0010@gmail.com](mailto:sadhanajamkatel0010@gmail.com)
-* 🌐 [GitHub](https://github.com/sanajamkatel)
+I believe the best technology starts with understanding the problem before jumping into the solution.
+
+Outside of coding, I enjoy creative design, exploring new places, and finding new things to learn.
+
+---
+
+**Thanks for stopping by! ☕**
